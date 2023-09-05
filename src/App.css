@@ -1,5 +1,13 @@
+body {
+  background-color: lightsteelblue;
+}
+
+
 .App {
   text-align: center;
+
+  padding: 20vh;
+  margin: 10vh;
 }
 
 .App-logo {
